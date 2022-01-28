@@ -1,4 +1,5 @@
 # This is an example mapping
+# Ajay Kumar Reddy Arram
 f = open("purchases.txt","r")  # open file, read-only
 o = open("Arram.txt", "w") # open file, write
 for line in f:  

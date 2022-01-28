@@ -1,3 +1,5 @@
+# Ajay Kumar Reddy Arram
+
 s = open("sorted_file.txt","r")
 r = open("reducer_file.txt", "w")
 
