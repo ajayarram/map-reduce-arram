@@ -21,9 +21,11 @@ The following graph shows honey production value in different states:
 
 The following graph shows the top ten average states of highest honey production value
 
+- The above graph shows the production value in dollars with highest being North Dakota
+
 ![image](https://user-images.githubusercontent.com/77767099/152582615-ebcf1dfb-e609-4cf8-a91c-9761b4aea61a.png)
  
- The above graph shows the production value in dollars 
+ 
 
 
 
